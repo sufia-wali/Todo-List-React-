@@ -1,0 +1,8 @@
+.remove{
+  margin-left: 10rem;
+  background-color: rgb(234, 234, 249);
+  padding:2px;
+}
+.remove:hover{
+  cursor: pointer;
+}
